@@ -1,16 +1,12 @@
 # Laboratorio Minimax y Poda Alfa-Beta
 
-## Descripción
+## Descripción del Proyecto
 
-Proyecto desarrollado en Python para implementar los algoritmos Minimax y Poda Alfa-Beta.
+Este proyecto implementa los algoritmos de búsqueda adversial Minimax y Alpha Beta Pruning aplicados a árboles de juego.
+El objetivo es comparar el funcionamiento de ambos algoritmos comparando:
+.Valor óptico encontrado
+.Cantidad de nodos encontrados
+.Cantidad de ramas eliminadas mediante poda Alpha Beta
 
-## Objetivo
+El proyecto está desarrollado en Pyton utilizandoi pruebas unitarias cob Pytest.
 
-Crear un agente inteligente capaz de tomar decisiones dentro de un árbol de juego.
-
-## Ejecución
-
-Activar entorno virtual:
-
-```bash
-.venv\Scripts\Activate.ps1
